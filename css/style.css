@@ -63,7 +63,8 @@ footer {
 /* о курсе */
 .about,
 .schedule,
-.auther {
+.auther,
+.buy {
   background-color: var(--color3);
 }
 .about i {
@@ -112,6 +113,11 @@ footer {
 }
 .itd_img {
   max-width: 260px;
+}
+/* Отзывы */
+.rounded {
+  border-radius: 50% !important;
+  border: 3px solid var(--color1);
 }
 /* цвет */
 .color1 {
