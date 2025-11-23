@@ -62,7 +62,8 @@ footer {
 }
 /* о курсе */
 .about,
-.schedule {
+.schedule,
+.learning {
   background-color: var(--color3);
 }
 .about i {
@@ -88,6 +89,21 @@ footer {
 /* Для кого курс */
 .forWhom h5 {
   padding: 50px;
+  border: 3px solid var(--color1);
+}
+/* для кого курс */
+.forWhom h5 {
+  padding: 50px;
+  border: 3px solid var(--color1);
+}
+/* Программа курса */
+.accordion-button:not(.collapsed) {
+  color: var(--bs-white);
+  background-color: var(--color2);
+}
+
+.learning h5 {
+  padding: 25px;
   border: 3px solid var(--color1);
 }
 /* цвет */
