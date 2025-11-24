@@ -914,7 +914,8 @@ target="_blank">Купить</a>
 class="icon-youtube-play"></i></a>
 
 <a class="btn btn-outline-light" target="_blank"
-href="mailto:ismail_2016@mail.ru?subject=Вопрос по курсу html+css&amp;body=Здравствуйте, ITDoctor,"><i
+href="mailto:ismail_2016@mail.ru?subject=Вопрос по курсу html+css&amp;body=
+Здравствуйте, ITDoctor,"><i
 class="icon-mail-alt"></i></a>
 
 <a class="btn btn-outline-light" target="_blank" href="https://t.me/itdoctorstudio"><i
