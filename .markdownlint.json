@@ -41,7 +41,14 @@
       "dt",
       "dd",
       "b",
-      "pre"
+      "pre",
+      "meta",
+      "link",
+      "body",
+      "button",
+      "script",
+      "title",
+      "head"
 
 
 
